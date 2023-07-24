@@ -16,7 +16,7 @@ class Son(Father):
         self.age=age
         Father.__init__(self,name)#手动输入self
 
-#实例对象
+#实例一个对象
 #子类中有init方法，就使用子类中的，且父类的init不可用；子类中没有init方法，就使用父类的
 Tom=Son(19,'Tom')
 print(Tom.age)
