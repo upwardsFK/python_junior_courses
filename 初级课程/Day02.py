@@ -15,5 +15,5 @@ for i in a:
 # print(content)
 
 
-s='1230'
+s='123'
 print(s[0])
