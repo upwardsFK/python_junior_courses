@@ -14,6 +14,21 @@ for i in a:
 # content=f.readlines()
 # print(content)
 
+#
+# s='123'
+# print(s[0])
+# import random
+# list={'1':2,'2':3}
+# print(random.choice(list))
 
-s='123'
-print(s[0])
+# str='123456'
+# b=str[:1]
+# print(b)
+
+
+set={'the':4,'hello':3,'world':5}
+print(set.values())
+
+
+list=[0]
+print(list[0])
